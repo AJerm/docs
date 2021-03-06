@@ -246,11 +246,15 @@ footer
 }
 
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
-  text-transform: none;
-  font-size: 12px;
-  font-weight: 300 !important;
-  color: #ececec;
-  background: linear-gradient(180deg, #185886, #154d75);
+text-transform: none;
+    font-size: 17px;
+    font-weight: 300 !important;
+    color: #ececec;
+    background: linear-gradient(180deg, #032a46, #1c425d);
+    white-space: normal;
+    height: fit-content;
+    padding: 12px 27px;
+    line-height: 1;
 }
 
 .wy-menu-vertical a
